@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.0",
+    "mongodb": "^4.7.0",
+    "redis": "^4.1.0"
+  }
+}
